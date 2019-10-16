@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://coopeipue.queercommunityallies.org/sitemap.xml
